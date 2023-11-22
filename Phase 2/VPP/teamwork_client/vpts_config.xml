@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VptsInfio version="20080410">
+	<Option lastSelectedFilePath="" lastSelectedRepository=""/>
+	<Repositories>
+		<Repository encrypted_password="kJhYed3eZHYttFyTZ8HSlQ==" ldapSAMAccountName="" paletteTooltipLastModified="0" path="/vpteamwork/VPTeamworkServer" portNumber="" protocol="vponline://" proxyHost="" proxyPort="0" serverHost="lneeregb" twFileFeatureSupport="true" useProxy="false" userDisplayName="Pinetreeaxe" userName="pg53926@alunos.uminho.pt">
+			<ClientPermission allow="true" name="allowAccessLockedContent"/>
+			<ClientPermission allow="true" name="manageReferenceProject"/>
+			<ClientPermission allow="true" name="changeProjectOptions"/>
+			<ClientPermission allow="true" name="configProjectStereotype"/>
+			<ClientPermission allow="true" name="configDefaultTaggedValues"/>
+			<ClientPermission allow="true" name="configRequirements"/>
+			<ClientPermission allow="true" name="configProjectManagementLookups"/>
+			<ClientPermission allow="true" name="configViewpoints"/>
+			<ClientPermission allow="true" name="configBusinessRuleKeywords"/>
+			<ClientPermission allow="true" name="configUxStatus"/>
+			<ClientPermission allow="true" name="designPattern"/>
+			<ClientPermission allow="true" name="changeDocTemplate"/>
+			<ClientPermission allow="true" name="configAutoMirrorModelElement"/>
+			<ClientPermission allow="true" name="customProcessCanvas"/>
+			<ClientPermission allow="true" name="createTag"/>
+			<ClientPermission allow="true" name="createBranch"/>
+			<ClientPermission allow="true" name="mergeBranch"/>
+			<ClientPermission allow="true" name="deleteBranch"/>
+			<Checksum value="21248658bcc86ef1e6bc4ed3b8eb96b5"/>
+		</Repository>
+	</Repositories>
+</VptsInfio>
